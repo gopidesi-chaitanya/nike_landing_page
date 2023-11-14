@@ -1,7 +1,2 @@
-
-## Summary
-Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.
-
-
-  
+Created the Nike landing page utilizing HTML, CSS, React, and Tailwind CSS, and enhance the structure and design of the page."
 
